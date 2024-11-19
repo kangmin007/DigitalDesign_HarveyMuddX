@@ -7,4 +7,4 @@ This repository organizes code examples, exercises, projects from the edX course
 - Computer Architecture : Harvey Muddx ENGR85B
 
 ## Book
-- "Digital Design and Computer Architecture(RISC-V), Sarah L. Harris, David Harris, MORGAN KAUFMANN, 1st edition
+- "Digital Design and Computer Architecture(RISC-V), Sarah L. Harris, David Harris, MORGAN KAUFMANN, 1st edition"
